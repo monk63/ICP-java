@@ -1,2 +1,2 @@
-# ICP-java
-First codes in ICP class
+# ICP-Java
+--Contains Initial Java Codes Only.
